@@ -6,6 +6,7 @@ public class DevClass {
         System.out.println("and also somthing and something to test the data");
         System.out.println("This code is to commit");
         System.out.println("Let us do an another commit");
+        System.out.println("I am Comitting after the code has been changed on to the feature");
     }
 //by doing this actually I am working on branching and cloning
 
