@@ -1,5 +1,8 @@
-//package org.example;
-//
-//public class DevClass {
-//    System.out.println("Hi") ;
-//}
+package org.example;
+
+public class DevClass {
+    public static void main(String[] args) {
+        System.out.println("hi");
+    }
+
+}
